@@ -39,7 +39,7 @@
 
     {{ partial('_partials/github-banner.swig', {}, {cache: theme.cache.enable}) }}
 
-    <main id="main" class="main">
+    <main id="main" class="main" style="min-height: calc(100vh - 328px);">
       <div class="main-inner">
         <div class="content-wrap">
           {% if theme.scheme === 'Pisces' || theme.scheme === 'Gemini' %}
