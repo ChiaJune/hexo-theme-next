@@ -615,7 +615,7 @@ needmoreshare2:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters
-#google_site_verification:
+google_site_verification: iZzuBcC-rD76_2qfwO0vKpEqd8CHfABq5WLUvS8NICk
 
 # Google Analytics
 #google_analytics:
@@ -630,7 +630,7 @@ needmoreshare2:
 
 # Baidu Webmaster tools verification setting
 # See: https://ziyuan.baidu.com/site
-#baidu_site_verification:
+baidu_site_verification: t3L44sqQCJ
 
 # CNZZ count
 #cnzz_siteid:
@@ -716,7 +716,7 @@ busuanzi_count:
 #tencent_mta:
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO.
-baidu_push: false
+baidu_push: true
 
 # Google Calendar
 # Share your recent schedule to others via calendar page.
